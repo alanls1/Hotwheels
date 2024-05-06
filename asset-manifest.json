@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Hotwheels/static/css/main.fd8f041b.css",
-    "main.js": "/Hotwheels/static/js/main.eae29aaa.js",
+    "main.js": "/Hotwheels/static/js/main.cfcf1dcf.js",
     "static/media/colecao.webp": "/Hotwheels/static/media/colecao.42924764469684d5142b.webp",
     "static/media/hotwheels.png": "/Hotwheels/static/media/hotwheels.95bda3445b9a77ef64c0.png",
     "index.html": "/Hotwheels/index.html",
     "main.fd8f041b.css.map": "/Hotwheels/static/css/main.fd8f041b.css.map",
-    "main.eae29aaa.js.map": "/Hotwheels/static/js/main.eae29aaa.js.map"
+    "main.cfcf1dcf.js.map": "/Hotwheels/static/js/main.cfcf1dcf.js.map"
   },
   "entrypoints": [
     "static/css/main.fd8f041b.css",
-    "static/js/main.eae29aaa.js"
+    "static/js/main.cfcf1dcf.js"
   ]
 }

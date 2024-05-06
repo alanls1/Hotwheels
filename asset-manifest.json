@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hotwheels/static/css/main.fd8f041b.css",
-    "main.js": "/Hotwheels/static/js/main.cfcf1dcf.js",
-    "static/media/colecao.webp": "/Hotwheels/static/media/colecao.42924764469684d5142b.webp",
-    "static/media/hotwheels.png": "/Hotwheels/static/media/hotwheels.95bda3445b9a77ef64c0.png",
-    "index.html": "/Hotwheels/index.html",
-    "main.fd8f041b.css.map": "/Hotwheels/static/css/main.fd8f041b.css.map",
-    "main.cfcf1dcf.js.map": "/Hotwheels/static/js/main.cfcf1dcf.js.map"
+    "main.css": "/alanls1/Hotwheels/static/css/main.fd8f041b.css",
+    "main.js": "/alanls1/Hotwheels/static/js/main.82d535c8.js",
+    "static/media/colecao.webp": "/alanls1/Hotwheels/static/media/colecao.42924764469684d5142b.webp",
+    "static/media/hotwheels.png": "/alanls1/Hotwheels/static/media/hotwheels.95bda3445b9a77ef64c0.png",
+    "index.html": "/alanls1/Hotwheels/index.html",
+    "main.fd8f041b.css.map": "/alanls1/Hotwheels/static/css/main.fd8f041b.css.map",
+    "main.82d535c8.js.map": "/alanls1/Hotwheels/static/js/main.82d535c8.js.map"
   },
   "entrypoints": [
     "static/css/main.fd8f041b.css",
-    "static/js/main.cfcf1dcf.js"
+    "static/js/main.82d535c8.js"
   ]
 }

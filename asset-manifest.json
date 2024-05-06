@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hotwheels/static/css/main.fd8f041b.css",
-    "main.js": "/Hotwheels/static/js/main.cfcf1dcf.js",
-    "static/media/colecao.webp": "/Hotwheels/static/media/colecao.42924764469684d5142b.webp",
-    "static/media/hotwheels.png": "/Hotwheels/static/media/hotwheels.95bda3445b9a77ef64c0.png",
-    "index.html": "/Hotwheels/index.html",
-    "main.fd8f041b.css.map": "/Hotwheels/static/css/main.fd8f041b.css.map",
-    "main.cfcf1dcf.js.map": "/Hotwheels/static/js/main.cfcf1dcf.js.map"
+    "main.css": "/hotwheels/static/css/main.fd8f041b.css",
+    "main.js": "/hotwheels/static/js/main.e180c535.js",
+    "static/media/colecao.webp": "/hotwheels/static/media/colecao.42924764469684d5142b.webp",
+    "static/media/hotwheels.png": "/hotwheels/static/media/hotwheels.95bda3445b9a77ef64c0.png",
+    "index.html": "/hotwheels/index.html",
+    "main.fd8f041b.css.map": "/hotwheels/static/css/main.fd8f041b.css.map",
+    "main.e180c535.js.map": "/hotwheels/static/js/main.e180c535.js.map"
   },
   "entrypoints": [
     "static/css/main.fd8f041b.css",
-    "static/js/main.cfcf1dcf.js"
+    "static/js/main.e180c535.js"
   ]
 }

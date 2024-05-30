@@ -1,0 +1,16 @@
+.primary {
+  height: 40px;
+  width: 100%;
+  border-radius: 10px;
+  margin-block: 10px;
+  border: transparent;
+  background-color: #0458a9;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  transition: transform 5ms ease-in;
+}
+.primary:hover {
+  transform: translateY(-1px);
+  background-color: #0459a9ce;
+}

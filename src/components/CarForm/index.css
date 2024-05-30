@@ -1,0 +1,40 @@
+.div-container {
+  max-width: 900px;
+  padding: 20px 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+.div-container div {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  font-size: 30px;
+}
+
+.div-container input {
+  height: 30px;
+  border-radius: 5px;
+  background-color: #e0e0e0;
+  outline: none;
+  border: 1px solid transparent;
+  margin-left: 30px;
+  color: black;
+}
+
+.div-container button {
+  height: 40px;
+  border-radius: 10px;
+  margin-block: 10px;
+  border: transparent;
+  background-color: #0458a9;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  transition: transform 5ms ease-in;
+}
+.div-container button:hover {
+  transform: scale(1.1);
+  background-color: #0459a9ce;
+}

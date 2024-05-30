@@ -1,17 +1,27 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import ReactDOM from "react-dom/client";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+import NavBar from "../src/components/NavBar";
+import Home from "../src/components/Home/index.jsx";
+import Cars from "../src/components/Cars/index.jsx";
+import About from "../src/components/About/index.jsx";
+import { Footer } from "../src/components/Footer/index.jsx";
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+import "./App.css";
+
+export default function App() {
+  return (
+    <Router>
+      <NavBar />
+      <Routes>
+        <Route path="/" exact element={<Home />} />
+        <Route path="cars" element={<Cars />} />
+        <Route path="about" element={<About />} />
+      </Routes>
+      <Footer />
+    </Router>
+  );
+}
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<App />);
